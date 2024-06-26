@@ -1,6 +1,6 @@
 {
   "name": "envelope",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Liberal email parser",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
   "contributors": [
